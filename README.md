@@ -18,10 +18,10 @@
   - Build and train an Isolation Forest model to detect anomalous data points based on behavioral patterns.
   - Implement an Autoencoder neural network to capture normal patterns and detect reconstruction errors, which could indicate anomalies.
 
-##### **3. Integration into Flask Web Application: **
+##### **3. Integration into Flask Web Application:**
 
-  -Develop a user interface using Flask where users can upload data and view the anomaly and fraud detection results.
-  -Provide authentication and secure access for users, ensuring that only authorized individuals can access the application.
+  - Develop a user interface using Flask where users can upload data and view the anomaly and fraud detection results.
+  - Provide authentication and secure access for users, ensuring that only authorized individuals can access the application.
   - Save the trained models and preprocessing pipelines to make the system reusable and scalable for new datasets.
 
 ##### **4. Anomaly and Fraudulent Activity Detection:**
